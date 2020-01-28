@@ -1,4 +1,22 @@
-# License
+# Udacity AI Programming Lecture
+
+## 0. Basic information
+
+## Project 1: Image Classifier
+
+Image_classifier: Using 102 Flowers data, model classifies the flower images where they belong among 102 groups.
+
+## Project 2: User Application
+
+train.py & predict.py: Users can train the model selecting some hyper-parameters and activation function etc... and check 
+
+model performance calling predict.py.
+
+## 1. Author
+
+서재형, Jaehyung Seo
+
+## 2. License
 
 MIT License
 
@@ -22,10 +40,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# Project 1: Image Classifier
-Image_classifier: Using 102 Flowers data, model classifies the flower images where they belong among 102 groups.
 
-# Project 2: User Application
-train.py & predict.py: Users can train the model selecting some hyper-parameters and activation function etc... and check model performance calling predict.py.
 
 
